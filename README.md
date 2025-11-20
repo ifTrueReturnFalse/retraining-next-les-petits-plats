@@ -1,4 +1,4 @@
-# P5 Les Petits Plats OC
+# Projet 4.2 Les Petits Plats OC / Project 4.2 "Les Petits Plats" OC
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
